@@ -1,0 +1,14 @@
+/Users/sangeethamurugan/projects/githubaction/ghactiontest/bin/Debug/net8.0/ghactiontest
+/Users/sangeethamurugan/projects/githubaction/ghactiontest/bin/Debug/net8.0/ghactiontest.deps.json
+/Users/sangeethamurugan/projects/githubaction/ghactiontest/bin/Debug/net8.0/ghactiontest.runtimeconfig.json
+/Users/sangeethamurugan/projects/githubaction/ghactiontest/bin/Debug/net8.0/ghactiontest.dll
+/Users/sangeethamurugan/projects/githubaction/ghactiontest/bin/Debug/net8.0/ghactiontest.pdb
+/Users/sangeethamurugan/projects/githubaction/ghactiontest/obj/Debug/net8.0/ghactiontest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangeethamurugan/projects/githubaction/ghactiontest/obj/Debug/net8.0/ghactiontest.AssemblyInfoInputs.cache
+/Users/sangeethamurugan/projects/githubaction/ghactiontest/obj/Debug/net8.0/ghactiontest.AssemblyInfo.cs
+/Users/sangeethamurugan/projects/githubaction/ghactiontest/obj/Debug/net8.0/ghactiontest.csproj.CoreCompileInputs.cache
+/Users/sangeethamurugan/projects/githubaction/ghactiontest/obj/Debug/net8.0/ghactiontest.dll
+/Users/sangeethamurugan/projects/githubaction/ghactiontest/obj/Debug/net8.0/refint/ghactiontest.dll
+/Users/sangeethamurugan/projects/githubaction/ghactiontest/obj/Debug/net8.0/ghactiontest.pdb
+/Users/sangeethamurugan/projects/githubaction/ghactiontest/obj/Debug/net8.0/ghactiontest.genruntimeconfig.cache
+/Users/sangeethamurugan/projects/githubaction/ghactiontest/obj/Debug/net8.0/ref/ghactiontest.dll
